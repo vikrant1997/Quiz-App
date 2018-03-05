@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="Q1">How many sides are there in a nonagon?</string>
+    <string name="Q2">How many months have 30 days?</string>
+    <string name="Q3">The hardest substance available on earth is </string>
+    <string name="Q4">The 3 digit number not divisible by 6 is... </string>
+    <string name="Q5">Which of the foll. are android versions </string>
+    <string name="Q6">Pre-commercial versions of android are </string>
+    <string name="Q7">Name of this site is (in small letters)</string>
+    <string name="Q8">Name of this company (in small letters)</string>
+</resources>
